@@ -1,0 +1,1 @@
+{"scripts":{"start":"node synthétiseur.js"},"dependencies":{"express":"^4.18.2","request":"^2.88.2"}}
