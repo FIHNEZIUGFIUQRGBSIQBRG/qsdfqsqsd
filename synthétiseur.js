@@ -33,7 +33,7 @@ app.get('/', (req, res) => {
     } else {
         res.send(`
             <form action="/" method="get">
-                <label>Résumé du mail que je dois rédiger</label>
+                <label>Texte à synthétiser</label>
                 <br>
                 <textarea name="article_text"></textarea>
                 <br><br>
